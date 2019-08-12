@@ -9,6 +9,7 @@ class App extends Component {
        <p>Test Paragraph</p>
        <p>Third paragraph Paragraph</p>
        <p>Third paragraph Paragraph</p>
+       <p>Second branch</p>
       </div>
     );
   }
